@@ -1,0 +1,15 @@
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Application.deps.json
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Application.dll
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Application.pdb
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Domain.dll
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\bin\Debug\net5.0\CleanArchitecture.Domain.pdb
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.csproj.CopyComplete
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.dll
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\obj\Debug\net5.0\refint\CleanArchitecture.Application.dll
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\obj\Debug\net5.0\CleanArchitecture.Application.pdb
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Application\obj\Debug\net5.0\ref\CleanArchitecture.Application.dll
