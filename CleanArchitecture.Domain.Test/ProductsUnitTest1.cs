@@ -72,5 +72,10 @@ namespace CleanArchitecture.Domain.Test
                 .Throw<CleanArchitecture.Domain.Validation.DomainExceptionValidation>()
                 .WithMessage("Invalid id value");
         }
+
+        public void Verifica()
+        {
+            var verify = 1;
+        }
     }
 }
