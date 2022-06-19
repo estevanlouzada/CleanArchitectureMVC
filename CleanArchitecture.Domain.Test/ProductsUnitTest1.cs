@@ -73,9 +73,6 @@ namespace CleanArchitecture.Domain.Test
                 .WithMessage("Invalid id value");
         }
 
-        public void Verifica()
-        {
-            var verify = 1;
-        }
+ 
     }
 }

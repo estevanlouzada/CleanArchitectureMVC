@@ -11,13 +11,13 @@ namespace CleanArchitecture.Domain.Interfaces
     {
         Task<IEnumerable<Product>> GetCategories();
 
-        Task<Category> GetProductCategoryById(int? id);
+        Task<Product> GetProductCategoryById(int? id);
 
-        Task<Category> Create(Product product);
+        Task<Product> Create(Product product);
 
-        Task<Category> Update(Product product);
+        Task<Product> Update(Product product);
 
-        Task<Category> Remove(Product product);
+        Task<Product> Remove(Product product);
 
     }
 }

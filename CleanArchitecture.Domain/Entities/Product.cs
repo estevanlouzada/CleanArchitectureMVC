@@ -52,7 +52,7 @@ namespace CleanArchitecture.Domain.Entities
 
             DomainExceptionValidation.When(string.IsNullOrEmpty(description), "Invalid name.Name is required");
 
-            DomainExceptionValidation.When(description.Length < 5, "Invalid name too short, minimum 5 characteres is required");
+            DomainExceptionValidation.When(description?.Length < 5 , "Invalid name too short, minimum 5 characteres is required");
 
             DomainExceptionValidation.When(price < 0, "Invalid price value");
 
