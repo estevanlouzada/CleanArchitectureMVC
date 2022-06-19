@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EadaUPq/UuAD+3+fkl8YG9nwPe+VKTigRQtDSiN0ipxKJTo8z29hD4idmET3kYlrY+k8E5AP3thojbw27MnRmQ==",
+  "dgSpecHash": "Wq8tVlUGGcKIN7hW+U7DUDQlBQHAeKfDyzaGOWwnHiwcmkTVmiem4S4HD+i1IynqhlD7LvfTr8BtaLvUOKxR1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\estev\\source\\repos\\CleanArchitectureMVC\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\estev\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.17\\microsoft.entityframeworkcore.design.5.0.17.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.17\\microsoft.entityframeworkcore.relational.5.0.17.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.17\\microsoft.entityframeworkcore.sqlserver.5.0.17.nupkg.sha512",
+    "C:\\Users\\estev\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.17\\microsoft.entityframeworkcore.tools.5.0.17.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

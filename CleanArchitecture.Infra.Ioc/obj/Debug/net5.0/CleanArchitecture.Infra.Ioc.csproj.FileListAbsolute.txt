@@ -17,3 +17,6 @@ C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Infra.Ioc\obj
 C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Infra.Ioc\obj\Debug\net5.0\refint\CleanArchitecture.Infra.Ioc.dll
 C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Infra.Ioc\obj\Debug\net5.0\CleanArchitecture.Infra.Ioc.pdb
 C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Infra.Ioc\obj\Debug\net5.0\ref\CleanArchitecture.Infra.Ioc.dll
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Infra.Ioc\bin\Debug\net5.0\CleanArchitecture.Infra.Ioc.runtimeconfig.json
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Infra.Ioc\bin\Debug\net5.0\CleanArchitecture.Infra.Ioc.runtimeconfig.dev.json
+C:\Users\estev\source\repos\CleanArchitectureMVC\CleanArchitecture.Infra.Ioc\obj\Debug\net5.0\CleanArchitecture.Infra.Ioc.genruntimeconfig.cache
