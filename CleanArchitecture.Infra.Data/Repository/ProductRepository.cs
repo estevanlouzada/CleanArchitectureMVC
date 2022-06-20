@@ -27,7 +27,7 @@ namespace CleanArchitecture.Infra.Data.Repository
             return product;
         }
 
-        public async Task<IEnumerable<Product>> GetCategories()
+        public async Task<IEnumerable<Product>> GetProductsAsync()
         {
            return await _productContext.Products.ToListAsync();
             

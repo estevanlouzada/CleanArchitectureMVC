@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dfFm+5e2MFnjuQErfaKf70z5afbOFz1ph03ft6gtlZJMSAP4bx80D07rUXdMcu2GoxT4LDlK5qhkYT6VMeCBPw==",
+  "dgSpecHash": "aYDgtC07A6cwRX8SkhUIyU/dHStgFDYXORVxi8p/KYgXPNbH4kpZCvjPQ2U+UtqyV9tXtKQ9Ks/SF7rqRsbSag==",
   "success": true,
   "projectFilePath": "C:\\Users\\estev\\source\\repos\\CleanArchitectureMVC\\CleanArchitecture.Infra.Ioc\\CleanArchitecture.Infra.Ioc.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\estev\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

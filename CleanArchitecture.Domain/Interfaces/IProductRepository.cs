@@ -9,7 +9,7 @@ namespace CleanArchitecture.Domain.Interfaces
 {
     public interface IProductRepository
     {
-        Task<IEnumerable<Product>> GetCategories();
+        Task<IEnumerable<Product>> GetProductsAsync();
 
         Task<Product> GetProductCategoryById(int? id);
 

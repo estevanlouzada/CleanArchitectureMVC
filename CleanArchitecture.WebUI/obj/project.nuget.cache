@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ebrr3QJHI9bsyolEhLITRvAH8zGtzIj1Qq/qZ/wP/TzsaosErqUwFjtiRr9wXlLhUoztYmfaTMsMhoxIKNUMFQ==",
+  "dgSpecHash": "Ml63qCkpcyKgVc0NqmNgOtC3jM2yujG86BgUck63WPelILaZHt6/EyplMwVtFgxoiSlUSCpDxkBDB/8jmiS0FA==",
   "success": true,
   "projectFilePath": "C:\\Users\\estev\\source\\repos\\CleanArchitectureMVC\\CleanArchitecture.WebUI\\CleanArchitecture.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\estev\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\fluentvalidation\\11.0.3\\fluentvalidation.11.0.3.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.15\\microsoft.aspnetcore.mvc.razor.extensions.5.0.15.nupkg.sha512",
