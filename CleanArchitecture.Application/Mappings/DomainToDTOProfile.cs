@@ -15,6 +15,8 @@ namespace CleanArchitecture.Application.Mappings
         {
             CreateMap<Category, CategoryDTO>().ReverseMap();
             CreateMap<Product, ProductDTO>().ReverseMap();
+
+          
         }
        
     }

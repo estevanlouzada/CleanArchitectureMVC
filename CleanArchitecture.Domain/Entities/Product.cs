@@ -36,12 +36,11 @@ namespace CleanArchitecture.Domain.Entities
             
         }
 
-        public void Update(string name, string description, decimal price, int stock, string image, int categoryId, Category category)
+        public void Update(string name, string description, decimal price, int stock, string image, int categoryId)
         {
 
             ValidateDomain(name, description, price, stock, image);
             CategoryId = categoryId;
-            Category = category;
         }
 
         private void ValidateDomain(string name, string description, decimal price, int stock, string image)

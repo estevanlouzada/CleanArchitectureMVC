@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZtC6jdLxVb15hECyzn4nvENwT7puqOc28Vke8WNV61rzW8xIL2QhEtqC5Bu0WYHbxFADIX125idI4AnS3if3Sw==",
+  "dgSpecHash": "hp7Frgkt8ZaYFuUfFyq3WAVfdVN2a3KI+CC2C/DeSd35mMYgdTOC/vW51xs4XH5jQZA/mqohyfCiGtbn4HGU9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\estev\\source\\repos\\CleanArchitectureMVC\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\estev\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\estev\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\estev\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\estev\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []

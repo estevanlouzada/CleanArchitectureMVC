@@ -19,6 +19,6 @@ namespace CleanArchitecture.Application.Interfaces
 
         Task Update(ProductDTO productDto);
 
-        Task Remove(ProductDTO productDto);
+        Task Remove(int? id);
     }
 }
