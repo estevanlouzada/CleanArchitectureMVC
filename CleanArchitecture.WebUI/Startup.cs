@@ -1,3 +1,4 @@
+using CleanArchitecture.Domain.Account;
 using CleanArchitecture.Infra.Ioc;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -24,8 +25,10 @@ namespace CleanArchitecture.WebUI
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ISeedUserRoleInitial seedUserRoleInitial)
         {
+
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -41,13 +44,18 @@ namespace CleanArchitecture.WebUI
 
             app.UseRouting();
 
+            // seeding of users from infra 
+
+            seedUserRoleInitial.SeedRoles();
+            seedUserRoleInitial.SeedUsers();
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Category}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Privacy}/{id?}");
             });
         }
     }

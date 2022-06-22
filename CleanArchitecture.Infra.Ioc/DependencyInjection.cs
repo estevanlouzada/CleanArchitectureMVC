@@ -9,7 +9,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using MediatR;
-
+using CleanArchitecture.Infra.Data.Identity;
+using Microsoft.AspNetCore.Identity;
+using CleanArchitecture.Domain.Account;
 
 namespace CleanArchitecture.Infra.Ioc
 {
@@ -24,6 +26,19 @@ namespace CleanArchitecture.Infra.Ioc
             // adding mediator handler by dependecy injection 
             var myhandlers = AppDomain.CurrentDomain.Load("CleanArchitecture.Application");
             service.AddMediatR(myhandlers);
+
+            // services from identity 
+            service.AddIdentity<ApplicationUser, IdentityRole>()
+            .AddEntityFrameworkStores<ApplicationDbContext>()
+            .AddDefaultTokenProviders();
+
+
+            // our services 
+            service.AddScoped<IAuthenticate, AuthenticateService>();
+            service.AddScoped <ISeedUserRoleInitial , SeedUserRoleInitial>();
+
+            //cookie services redirect to account login 
+            service.ConfigureApplicationCookie(options => options.AccessDeniedPath = "/Account/Login");
 
             service.AddScoped<ICategoryRespository, CategoryRepository>();
             service.AddScoped<IProductRepository, ProductRepository>();
